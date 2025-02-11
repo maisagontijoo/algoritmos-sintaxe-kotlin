@@ -1,17 +1,17 @@
-## Exercícios sintaxe Kotlin
+# Exercícios sintaxe Kotlin
 
-# 📜 Objetivo
+## 📜 Objetivo
   - O objetivo é fazer exercícios usando a sintaxe da linguagem Kotlin
 
-# 📋 Instalação
+## 📋 Instalação
   - Clonar o repositório
   - Instalar o Visual Studio
 
-# 🧰 Tecnologia
+## 🧰 Tecnologia
 As ferramentas utilizadas para produzir esse projeto:
   - Visual Studio
   - https://www.jdoodle.com/compile-kotlin-online
 
-# 😁 Autora
+## 😁 Autora
 Desenvolvido por [Maísa Gontijo](https://www.linkedin.com/in/ma%C3%ADsa-gontijo-5644a4315/)
 
